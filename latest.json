@@ -1,7 +1,7 @@
 {
-  "version": "r124-e748b49",
+  "version": "r125-3b81b1b",
   "mcu": "fw-5925231",
   "bridge": "737481ea",
-  "published_at": "2026-08-11T10:16:51+00:00",
+  "published_at": "2026-08-11T12:17:51+00:00",
   "notes": "Rolling dash release. The bike pulls the actual update from its own private repo; this file only says what is newest."
 }
