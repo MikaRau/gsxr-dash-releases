@@ -1,9 +1,9 @@
 {
-  "version": "r132-dcaec6f",
+  "version": "r133-0bd3cd9",
   "mcu": "fw-5925231",
   "bridge": "737481ea",
   "base_url": "https://github.com/MikaRau/gsxr-dash-releases/releases/download/dash-latest",
   "manifest": "https://github.com/MikaRau/gsxr-dash-releases/releases/download/dash-latest/manifest.txt",
-  "published_at": "2026-08-12T19:26:24+00:00",
+  "published_at": "2026-08-13T08:42:36+00:00",
   "notes": "Rolling dash release. base_url serves manifest.txt and the assets it names, anonymously, in the layout dash-update.sh expects from BASE_URL."
 }
